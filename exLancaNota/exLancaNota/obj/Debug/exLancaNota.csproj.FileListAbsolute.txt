@@ -1,0 +1,27 @@
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe.config
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\bin\Debug\exLancaNota.pdb
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csprojResolveAssemblyReference.cache
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Form1.resources
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Properties.Resources.resources
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csproj.GenerateResource.Cache
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.exe
+C:\Users\TEMP\Desktop\exLancaNota\exLancaNota\obj\Debug\exLancaNota.pdb
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe.config
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.exe
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.pdb
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.pdb
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csprojResolveAssemblyReference.cache
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Form1.resources
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Properties.Resources.resources
+E:\Escola\3° ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csproj.GenerateResource.Cache
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe.config
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.exe
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\bin\Debug\exLancaNota.pdb
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csprojAssemblyReference.cache
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Form1.resources
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.Properties.Resources.resources
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.csproj.GenerateResource.cache
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.exe
+C:\Users\tiago\Desktop\ETEC\3º ano\DS\2°bimestre-parte grafica\Exercicios\exLancaNota\exLancaNota\obj\Debug\exLancaNota.pdb
